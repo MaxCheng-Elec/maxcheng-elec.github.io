@@ -1,0 +1,4 @@
+将学校 / 公司 logo、校园或项目照片放在本文件夹。
+在 ../profile.js 最下方的 window.PROFILE.media 中填写路径，例如 images/campus.jpg。
+image 是标题旁的小图，photos 是正文下面的照片列表。
+三种语言共用图片，caption 可填写 en / zh / de。
