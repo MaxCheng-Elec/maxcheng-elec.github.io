@@ -13,7 +13,7 @@ window.PROFILE = {
   interests: ["Computer science", "Hardware development", "Personal projects", "Software development"],
   // Leave these empty to hide the corresponding links.
   email: "J.Cheng-46@ed.ac.uk",
-  github: "https://github.com/mix0225",
+  github: "https://github.com/MaxCheng-Elec",
   news: [
     { date: "2026.09", text: "Started the first semester of my first year of undergraduate studies." }
   ],
